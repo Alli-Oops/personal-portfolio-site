@@ -3,6 +3,7 @@ body {
     background: darkgray;
 }
 
+/* Top Title with Navigation */
 .wrapper {
     position: relative;
     clear: both;
@@ -31,6 +32,7 @@ body {
     text-align: left;    
 }
 
+/* Main Content */
 main {
     display: grid;
     grid-template-columns: 1fr 4fr;
@@ -67,6 +69,7 @@ img {
     border: 0.5em solid black;
 }
 
+/* Boxed Style for Main Content */
 .boxed {
     position: relative;
     background: #fff;
